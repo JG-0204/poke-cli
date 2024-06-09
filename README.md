@@ -5,6 +5,7 @@ A simple cli app created with nodejs and PokeAPI. It asks for a pokemon name and
 # Install
 
 this project doesn't really need anything like this so I'll just do this for practice
+
 **Clone the repository.**
 
 ```sh
